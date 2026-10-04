@@ -1,0 +1,37 @@
+commit b0c848eae66c2c6ea03a9c2bf753db9d1de8bd63
+Author: Скляров К.А. <276334258+dyda5505-cloud@users.noreply.github.com>
+Date:   Sun Oct 4 14:44:45 2026 +0500
+
+    Добавлен test.txt в ветке TEST
+
+commit 9c921b9bb082e54ef66b91947cb9dfd60f30552f
+Author: Скляров К.А. <276334258+dyda5505-cloud@users.noreply.github.com>
+Date:   Sun Oct 4 14:44:44 2026 +0500
+
+    Добавлен .gitignore для временных файлов
+
+commit 3e61d616e459044b290ec7d21e9e3e4d809d5495
+Author: Скляров К.А. <276334258+dyda5505-cloud@users.noreply.github.com>
+Date:   Sun Oct 4 14:44:44 2026 +0500
+
+    Revert "Добавлена платформа видеоконференций"
+    
+    This reverts commit 619379a3b1c1edfaace443077f60ed5bf3f6bbaf.
+
+commit 619379a3b1c1edfaace443077f60ed5bf3f6bbaf
+Author: Скляров К.А. <276334258+dyda5505-cloud@users.noreply.github.com>
+Date:   Sun Oct 4 14:44:44 2026 +0500
+
+    Добавлена платформа видеоконференций
+
+commit ea2aede0305bd1ec929ba31b3927ac0dc1b72079
+Author: Скляров К.А. <276334258+dyda5505-cloud@users.noreply.github.com>
+Date:   Sun Oct 4 14:44:43 2026 +0500
+
+    Добавлена оценка текущего статуса
+
+commit ed3b49743c9c188a8c47faa9d194cfc6c489b390
+Author: Скляров К.А. <276334258+dyda5505-cloud@users.noreply.github.com>
+Date:   Sun Oct 4 14:44:43 2026 +0500
+
+    Добавлен базовый readme с ФИО и группой
